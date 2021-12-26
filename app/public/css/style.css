@@ -1,25 +1,25 @@
 body{
-	background:#F8F8F8;
+	background:#f1f1f1;
 }
 
 a:hover{
 	text-decoration: none;
-	color:#000;
+	color:#1F2421;
 }
 
 .noticia_wrapper{
-	background-color: #FFF;
+	background-color: #FFFFFF;
 	padding:15px;
 	margin-bottom:15px;
 	box-shadow: 1px 1px 2px #C3C3C3;
 }
 
 .navbar{
-	background:#FFF;
+	background:#49A078;
 }
 
 .noticia_autor{
-	color: #FF7C26;
+	color: #216869;
 	display: block;
 }
 
@@ -30,17 +30,26 @@ a:hover{
 }
 
 .noticia_data{
-	color:#727272;
+	color:#9CC5A1;
 	display: block;
 }
 
 .noticia_resumo{
-	color:#333;
+	color:#1F2421;
 	margin-right:10px;
 }
 
 .ver_mais{
 	text-align: center;
-	background:#FFF;
+	background:#FFFFFF;
 	padding:20px;
+}
+
+.page_title {
+	color: #FFFFFF;
+}
+
+.home_link {
+	color: #FFFFFF;
+	margin-top: 10px;
 }
